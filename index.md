@@ -5,4 +5,4 @@ Welcome to the official website of the **UAV-VLA** research project! This projec
 ## Abstract
 This paper discusses the methodologies, challenges, and applications of UAVs integrated with VLAs for data collection in remote locations.
 
-![UAV Image](assets/images/pipeline.jpg)
+![UAV Image](assets/pipeline.jpg)
